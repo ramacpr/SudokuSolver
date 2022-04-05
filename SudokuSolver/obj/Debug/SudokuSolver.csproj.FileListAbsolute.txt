@@ -1,0 +1,7 @@
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojAssemblyReference.cache
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb

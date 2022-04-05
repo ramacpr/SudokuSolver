@@ -1,0 +1,6 @@
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.exe.config
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.exe
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\bin\Release\SudokuSolver.pdb
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.csproj.CoreCompileInputs.cache
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.exe
+D:\Projects\gPrep\SudokuSolver\SudokuSolver\obj\Release\SudokuSolver.pdb
